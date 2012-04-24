@@ -1,4 +1,4 @@
 docs.chrisdigital.com
 =====================
 
-public documents for public
+//Home for my public documents.
